@@ -25,5 +25,5 @@ format_msg("Ayush","ayush.com");
 """
 
 
-def base_function(*args, **kwargs):
-    print(args, kwargs)
+# def base_function(*args, **kwargs):
+#     print(args, kwargs)
