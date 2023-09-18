@@ -1,3 +1,5 @@
 1. Just select the area you want to execute in the python file.
 2. Right click on the selected area and click "Run Code".
 3. If you click "Run Code" without selected any particular piece of code, then entire code will be executed.
+
+4. Always try to keep file name equal to your function name if you are making a module or plan to import any function from that file.
